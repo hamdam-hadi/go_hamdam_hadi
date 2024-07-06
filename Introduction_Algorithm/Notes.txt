@@ -1,0 +1,33 @@
+//Name the programming language that are used to develope back-end application.
+//Name and mention various technologies that need to be studied to become a back-end engineer.
+
+No1 Answer:
+
+There are numerous programming languages used for back-end application development. Here are some 
+of popular programming languages commonly used.
+
+1- Python
+2- JavaScript
+3- Java
+4- Swift
+5- Golang
+6- Ruby
+7- PHP
+8- C#
+9- Kotlin
+10- Rust
+
+No2 Answer:
+
+To become a back-end engineer, we need to study and learn!
+
+1- Programming language
+2- Version Control
+3- System
+4- Frameworks and Libraries
+5- Databases
+6- APIs and Web Services
+7- Server Management
+8- Cloud Services
+9- Security
+10- Performance Optimization
